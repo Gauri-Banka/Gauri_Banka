@@ -16,23 +16,23 @@ I'm passionate about building things that bridge hardware and software — from 
 
 ---
 
-### 🛠️ Skills
+🛠️ Skills
 
-**Languages**
-- Python
-- C
-- JavaScript (basics)
+Languages & Core
 
-**Web**
-- HTML
-- CSS
-- JavaScript (basics)
+<img src="https://skillicons.dev/icons?i=python,c,js" alt="Python, C, JavaScript" />
 
-**Data & Tools**
-- Data Structures (DS)
-- Arduino *(learning)*
+Web Development
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
+
+Hardware & Electronics
+
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+
+Concepts
+
+Show Image Show Image Show Image
 
 ### 🤖 Featured Project
 - **Tic Tac Toe (Python + Tkinter)** — A simple, interactive two-player game built with Python's Tkinter GUI library.
