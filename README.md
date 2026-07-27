@@ -30,9 +30,6 @@ Hardware & Electronics
 
 <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
 
-Concepts
-
-Show Image Show Image Show Image
 
 ### 🤖 Featured Project
 - **Tic Tac Toe (Python + Tkinter)** — A simple, interactive two-player game built with Python's Tkinter GUI library.
